@@ -1,4 +1,5 @@
-# test
+# Logs
+The idea of the project is to quickly setup a sample vue-vuetify project using basic components and integrating Vuex/Flux, Routing module and stateless components. The solution provides a kick starter project with custom template and overall Vue functionality/understanding.
 
 ## Project setup
 ```
