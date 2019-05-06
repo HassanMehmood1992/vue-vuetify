@@ -44,7 +44,7 @@ export default new Router({
       ]
     },
     {
-      path: "/",
+      path: "*",
       name: "Root",
       redirect: {
         name: "login"
